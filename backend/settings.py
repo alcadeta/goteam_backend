@@ -134,7 +134,7 @@ ALLOWED_HOSTS = [
     os.environ.get('FRONTEND_URL'),
 
     #PRODUCTION
-    'goteambackend.herokuapp.com/'
+    'goteambackend.herokuapp.com',
 ]
 
 CORS_ORIGIN_ALLOW_ALL = False
